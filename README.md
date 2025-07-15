@@ -70,3 +70,5 @@ DEBERA EJECUTAR con el listado DESDE APP.java.
 
 
 <img width="648" height="600" alt="image" src="https://github.com/user-attachments/assets/e1d59055-00c3-45df-80fb-b823fc80ee3c" />
+
+<img width="1435" height="196" alt="image" src="https://github.com/user-attachments/assets/2843c897-cae4-4a87-999e-96c3ed37a228" />
