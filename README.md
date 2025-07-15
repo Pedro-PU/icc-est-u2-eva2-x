@@ -69,3 +69,4 @@ Recuerda que cada test aprobado sumará a tu nota final.
 DEBERA EJECUTAR con el listado DESDE APP.java.
 
 
+<img width="648" height="600" alt="image" src="https://github.com/user-attachments/assets/e1d59055-00c3-45df-80fb-b823fc80ee3c" />
