@@ -1,5 +1,8 @@
 import java.util.List;
+import java.util.Map;
+import java.util.Set;
 
+import controllers.LibroController;
 import models.Book;
 
 public class App {
@@ -31,5 +34,14 @@ public class App {
                 new Book("Ciberseguridad", "Pedro León", 2023),
                 new Book("Blockchain", "Marta Ríos", 2021),
                 new Book("Machine Learning", "Cristina Gómez", 2022));
+        
+        LibroController lc = new LibroController();
+        System.out.println("Ordenamiento");
+        Set<Book> lbs = lc.procesarLibros(libros);
+        System.out.println(lbs.size());
+        for(Book lb : lbs){
+            System.out.println(lb);
+        }
+      
     }
 }
